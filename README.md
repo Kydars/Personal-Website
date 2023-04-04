@@ -1,42 +1,38 @@
-# Spotlight
+# Personal Website
 
-Spotlight is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
+Welcome to my personal website! I'm Kyle Wu, a software engineer with a passion for solving complex problems and designing cool shit.
 
-## Getting started
+On this website, you can learn more about me, my skills, and my experience. You'll find my resume, projects I've worked on, and my blog, where I share my thoughts on various topics related to software engineering, technology, and innovation.
 
-To get started with this template, first install the npm dependencies:
+## About Me
 
-```bash
-npm install
-```
+I've always been interested in technology and how it can be used to solve real-world problems. I received my bachelor's degree in computer science from the University of California, Berkeley, and have been working as a software engineer ever since. My experience includes working for startups, established companies, and everything in between. I'm always looking for new challenges and opportunities to learn.
 
-Next, create a `.env.local` file in the root of your project and set the `NEXT_PUBLIC_SITE_URL` variable to your site's public URL:
+## My Skills
 
-```
-NEXT_PUBLIC_SITE_URL=https://example.com
-```
+As a software engineer, I have experience in a wide range of technologies and programming languages, including:
 
-Next, run the development server:
+Java
+Python
+JavaScript
+React
+SQL
+NoSQL databases
+I'm also skilled in software design patterns, agile development methodologies, and project management.
 
-```bash
-npm run dev
-```
+## My Projects
+I've worked on a variety of projects throughout my career, ranging from mobile applications to large-scale web applications. Some of my notable projects include:
 
-Finally, open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
+A mobile app for a healthcare startup that connects patients with healthcare providers
+A web application for a social media platform that allows users to connect with people who share similar interests
+A dashboard for a logistics company that provides real-time tracking of shipments
+My Blog
+On my blog, I share my thoughts on a variety of topics related to software engineering, technology, and innovation. Some of my recent posts include:
 
-## Customizing
+"The Importance of User Experience in Software Design"
+"Why Agile Development Methodologies Are Critical for Success"
+"The Future of Artificial Intelligence and Machine Learning"
+Contact Me
+If you're interested in learning more about me, my skills, or my experience, please don't hesitate to reach out. You can contact me through the contact form on this website, or connect with me on LinkedIn.
 
-You can start editing this template by modifying the files in the `/src` folder. The site will auto-update as you edit these files.
-
-## License
-
-This site template is a commercial product and is licensed under the [Tailwind UI license](https://tailwindui.com/license).
-
-## Learn more
-
-To learn more about the technologies used in this site template, see the following resources:
-
-- [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
-- [Next.js](https://nextjs.org/docs) - the official Next.js documentation
-- [Headless UI](https://headlessui.dev) - the official Headless UI documentation
-- [MDX](https://mdxjs.com) - the MDX documentation
+Thank you for visiting my website!
