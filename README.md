@@ -1,4 +1,4 @@
-# Personal Website
+# All About Me!
 
 Welcome to my personal website! I'm Kyle Wu, a software engineer with a passion for solving complex problems and making cool shit.
 
