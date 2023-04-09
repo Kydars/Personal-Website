@@ -44,31 +44,33 @@ export default function About() {
         <title>About - Kyle Wu</title>
         <meta
           name="description"
-          content="I’m Kyle Wu, a software engineering student learning the ropes."
+          content="I’m Kyle Wu, a software engineering student aiming for the stars!"
         />
       </Head>
       <Container className="mt-16 sm:mt-32">
         <div className="grid grid-cols-1 gap-y-16 lg:grid-cols-2 lg:grid-rows-[auto_1fr] lg:gap-y-12">
           <div className="lg:pl-20">
             <div className="max-w-xs px-2.5 lg:max-w-none">
-              <Image
-                src={portraitImage}
-                alt=""
-                sizes="(min-width: 1024px) 32rem, 20rem"
-                className="aspect-square rotate-3 rounded-2xl bg-zinc-100 object-cover dark:bg-zinc-800"
-              />
+            <Image
+              src={portraitImage}
+              alt=""
+              sizes="(min-width: 1024px) 32rem, 20rem"
+              className="aspect-square rounded-2xl bg-zinc-100 object-cover dark:bg-zinc-800"
+              style={{objectPosition: "top"}}
+            />
             </div>
           </div>
           <div className="lg:order-first lg:row-span-2">
-            <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
+            <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl" >
               Hi there! I'm Kyle, a software engineering student aiming for the stars!
             </h1>
-            <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
+            <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400" style={{textAlign: 'justify'}}>
               <p>
-                I’ve loved making things for as long as I can remember, and
-                wrote my first program when I was 6 years old, just two weeks
-                after my mom brought home the brand new Macintosh LC 550 that I
-                taught myself to type on.
+                I’ve loved making things for as long as I can remember, and wrote my first program when
+                I was 12! I have a passion for building things that make a difference in people lives
+                and strive everyday to make an impact on the world. As a software engineering student, 
+                I always look forward to learning the next thing, from programming games in MIPS to building
+                databases for large scale web applications, I will always try everything at least once! 
               </p>
             </div>
           </div>
